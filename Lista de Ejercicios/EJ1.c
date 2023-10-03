@@ -1,11 +1,11 @@
 // ConsoleApplication1.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
 
-//Suma de Matrices
+//Multiplicación de Matrices
 #include <stdio.h>
 #include <stdlib.h>
 
-//Matrizes
+//Matrices
 int matA[10][10];
 int matB[10][10];
 int matR[10][10];
