@@ -44,3 +44,4 @@
          cv::imshow("greenChannel", greenChannel);
          cv::imshow("redChannel", redChannel);
          cv::waitKey(0);
+     }
