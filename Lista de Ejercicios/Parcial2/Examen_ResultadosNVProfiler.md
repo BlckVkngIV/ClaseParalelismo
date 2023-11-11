@@ -1,16 +1,16 @@
 # Resultados del Nvidia Profiler en codigos CUDA
 # Professional CUDA C / Chapter 04
 ## Índice:
-### [WriteSegment.cu](#-writeSegment.cu)
-### [SumArrayZeroCpy.cu](#-sumArrayZerocpy.cu)
-### [SimpleMathAoS.cu](#-simpleMathAoS.cu)
-### [simpleMathSoA.cu](#-simpleMathSoA.cu)
-### [memTranfer.cu](#-memTranfer.cu)
-### [pinMemTransfer.cu](#-pinMemTransfer.cu)
-### [sumMatrixGPUManaged.cu](#-sumMatrixGPUManaged.cu)
-### [summatrixGPUManual.cu](#-summatrixGPUManual.cu)
-### [readSegment.cu](#-readSegment.cu)
-### [readSegmentUnroll.cu](#-readSegmentUnroll.cu)
+### [WriteSegment.cu](#writesegment.cu)
+### [SumArrayZeroCpy.cu](#sumarrayzerocpy.cu)
+### [SimpleMathAoS.cu](#simplemathaos.cu)
+### [simpleMathSoA.cu](#simplemathsoa.cu)
+### [memTranfer.cu](#memtranfer.cu)
+### [pinMemTransfer.cu](#pinmemtransfer.cu)
+### [sumMatrixGPUManaged.cu](#summatrixgpumanaged.cu)
+### [summatrixGPUManual.cu](#summatrixgpumanual.cu)
+### [readSegment.cu](#readsegment.cu)
+### [readSegmentUnroll.cu](#readsegmentunroll.cu)
 
 
 # writeSegment.cu
