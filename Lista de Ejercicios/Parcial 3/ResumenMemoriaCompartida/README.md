@@ -23,7 +23,7 @@ Ya que acceder a valores del mismo banco en diferentes filas causa un conflicto,
 ## Acceso en orden principal de fila y principal de columna:
 Estos son metodos para almacenar arreglos multidimensionales en almacenamiento lineal como la RAM, cuya diferencia entre ambos son los elementos que son vecinos en memoria.
 
-![RowColumnMajorOrder]("../../../Resources/OrdenPrincipalColumnaFila.png")
+![RowColumnMajorOrder](../Resources/OrdenPrincipalColumnaFila.png)
 
 
 
