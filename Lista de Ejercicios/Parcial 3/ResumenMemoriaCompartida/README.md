@@ -16,7 +16,7 @@ La variable de memoria compartida de dos dimensiones de puede declarar en un cod
 * `tile [threadIdx.y] [threadIdx.x]` / Accede a los valores vecinos de una fila (x)
 * `tile [threadIdx.x] [threadIdx.y]` / Accede a los valores vecinos de una columna (y)
 
-![SquareSharedMemory]("../Resources/SquareSharedMemory.png")
+![SquareSharedMemory](../Resources/SquareSharedMemory.png)
 
 Ya que acceder a valores del mismo banco en diferentes filas causa un conflicto, disminuyendo la eficiencia del programa dado que tiene que dividir y repetir la solicitud de los hilos correspondientes en cuantos ciclos sean necesarios, podemos determinar que el metodo de acceso `tile [threadIdx.y] [threadIdx.x]` es mas eficiente dado que accede a valores en diferentes bancos en la misma fila.
 
